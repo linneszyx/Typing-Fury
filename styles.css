@@ -1,0 +1,42 @@
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+input[type="text"] {
+	font-size: 24px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+button {
+	font-size: 24px;
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+#result {
+	font-size: 36px;
+	margin-top: 30px;
+}
